@@ -39,6 +39,7 @@ The findings indicate that the Quick sort algorithm has the smallest elapsed tim
 |-----------|--------|-----------|------------|
 | Quicksort | 0.000002 | 0.000174 | 0.000531 |
 | ...       | ...    | ...       | ...        |
+<img width="900" alt="Quick sort" src="https://github.com/0xZainRaza/Operating-System-Project/assets/154006182/c69959d8-299a-4e54-bdba-fea9cfd20c3a">
 
 ### Radix Sort
 Based on the data, Radix sort with threading had the largest elapsed time, while Radix sort with multiprocessing had the smallest elapsed time.
@@ -47,6 +48,7 @@ Based on the data, Radix sort with threading had the largest elapsed time, while
 |-----------|--------|-----------|------------|
 | Radix sort| 0.000033 | 0.008366 | 0.000331 |
 | ...       | ...    | ...       | ...        |
+<img width="900" alt="Radix sort" src="https://github.com/0xZainRaza/Operating-System-Project/assets/154006182/0f07e939-d482-4bc6-9455-cb173105a645">
 
 ### Selection sort
 The normal program consistently outperformed the multithreaded and multiprocessed programs for Selection Sort.
@@ -55,6 +57,7 @@ The normal program consistently outperformed the multithreaded and multiprocesse
 |---------------|--------|-----------|------------|
 | Selection Sort| 0.000002 | 0.00155 | 0.000949 |
 | ...           | ...    | ...       | ...        |
+<img width="900" alt="Selection sort" src="https://github.com/0xZainRaza/Operating-System-Project/assets/154006182/59675256-0e24-4f8d-950f-17cb48adda1d">
 
 ### Rank sort
 The performance of the rank sort algorithm with multiprocessing and multithreading is worse than the normal program.
@@ -63,6 +66,7 @@ The performance of the rank sort algorithm with multiprocessing and multithreadi
 |-----------|--------|-----------|------------|
 | Rank Sort | 0.000002 | 0.001739 | 0.000246 |
 | ...       | ...    | ...       | ...        |
+<img width="900" alt="Rank Sort" src="https://github.com/0xZainRaza/Operating-System-Project/assets/154006182/c9f44c2d-5374-403e-9028-d39aeb30ae67">
 
 ## Conclusion
 Contrary to our hypothesis, all the tests showed that the normal program runs faster than the multiprocess or multithreaded programs. It's important to note that the performance of multiprocessing and multithreading can vary depending on various factors such as the size of the data, the number of cores/threads available, the implementation of the algorithm, and the overhead of managing threads/processes. In our case, it's possible that the overhead of managing threads/processes outweighed the benefits of parallelization, leading to longer elapsed times.
