@@ -25,11 +25,9 @@ We first created an array of 8 elements and then ran the program using that arra
 ### Mergesort
 The normal (single-threaded) program consistently outperformed both the multithreaded and multiprocessing programs. Elapsed time for each sorting algorithm using normal, threading, and processing methods:
 
-|        | Normal      | Threading   | Processing  |
+|    Algorithm    | Normal      | Threading   | Processing  |
 |--------|-------------|-------------|-------------|
-| 1      | 0.000003    | 4.00E-06    | 0.000683    |
-| 2      | 0.000004    | 3.00E-06    | 0.001012    |
-| 3      | 0.000003    | 5.00E-06    | 0.000484    |
+| Mergesort      | 0.000003    | 4.00E-06    | 0.000683    |
 | ...       | ...    | ...       | ...        |
 
 <img width="900" alt="merge sort" src="https://github.com/0xZainRaza/Operating-System-Project/assets/154006182/043b163d-5313-412f-9d2d-383d893c523f">
