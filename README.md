@@ -75,7 +75,7 @@ In conclusion, our experiment showed that the normal program outperformed the pr
 
 ## Reference List
 - Reference programs
-  https://github.com/Mercurycode2002/OS_lab-_semester_4/tree/main/Semester_project
+  https://github.com/0xZainRaza/Operating-System-Project/tree/main/Sorting%20Algorithms
 - Raw Data [https://docs.google.com/spreadsheets/d/1JxOdCUL4tyqbQ1IuryBof3mHqfYyAAj3SrZHm67oZvA](https://docs.google.com/spreadsheets/d/1JxOdCUL4tyqbQ1IuryBof3mHqfYyAAj3SrZHm67oZvA/edit#gid=0)
 - Reference Study
   https://www.diva-portal.org/smash/get/diva2:839729/FULLTEXT0
