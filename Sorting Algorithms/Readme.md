@@ -1,6 +1,6 @@
 # Sorting Algorithms Study
 
-We conducted a study to test our hypothesis using five distinct sorting algorithms. Each algorithm has its unique approach to sorting data efficiently. Below is an overview of the algorithms employed in our study.
+
 
 ## Algorithms
 
