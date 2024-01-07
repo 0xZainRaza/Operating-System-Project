@@ -74,6 +74,9 @@ Contrary to our hypothesis, all the tests showed that the normal program runs fa
 In conclusion, our experiment showed that the normal program outperformed the programs with multiprocessing and multithreading. Future work could explore different implementations and configurations of the algorithms and experiment with larger datasets to further investigate the performance of multiprocessing and multithreading. It's important to interpret the findings in the context of the experimental setup and consider possible limitations and sources of error.
 
 ## Reference List
-- [Reference programs](https://github.com/Mercurycode2002/OS_lab-_semester_4/tree/main/Semester_project)
-- [Raw Data](https://docs.google.com/spreadsheets/d/1JxOdCUL4tyqbQ1IuryBof3mHqfYyAAj3SrZHm67oZvA/edit#gid=0)
-- [Reference Study](https://www.diva-portal.org/smash/get/diva2:839729/FULLTEXT0)
+- Reference programs
+  https://github.com/Mercurycode2002/OS_lab-_semester_4/tree/main/Semester_project
+- Raw Data
+  https://docs.google.com/spreadsheets/d/1JxOdCUL4tyqbQ1IuryBof3mHqfYyAAj3SrZHm67oZvA/edit#gid=0
+- Reference Study
+  https://www.diva-portal.org/smash/get/diva2:839729/FULLTEXT0
