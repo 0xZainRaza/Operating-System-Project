@@ -2,7 +2,7 @@
 # Sorting Algorithm Performance Comparison with Processes and Threads
 
 ## Objectives
-The bjective of this experiment is to test whether multithreading is faster than multiprocessing and a normal sorting algorithm.
+The objective of this experiment is to test whether multithreading is faster than multiprocessing and a normal sorting algorithm.
 
 ## Introduction
 In our semester project, we aimed to compare the performance of different sorting algorithms with multiprocessing and multithreading. We implemented the algorithms using the pthread.h library for threads and time.h to calculate the time taken to sort an array. We ran each test with six different arrays and recorded the results.
